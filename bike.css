@@ -1,0 +1,45 @@
+#main_div{
+    border: 1px solid black;
+    height: 100vh;
+    width: 100%;
+    text-align: center;
+    background-image: url(../css/imge/OIP.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#div2{
+    /* border: 1px solid black; */
+    height: 300px;
+}
+#div3{
+    /* border: 1px solid black; */
+    height: 100px;
+    display: flex;
+    justify-content: space-around ;
+    margin-top: 30px;
+    padding-top: 20px;
+    
+}
+#div3 div{
+    /* border: 1px solid black; */
+    width: 30%;
+}
+#submit{
+    margin-top: 30px;
+}
+p{
+    color: red;
+    display: none;  
+}
+#tablediv{
+    /* border: 1px solid black; */
+    margin-top: 20px;
+    margin-left: 200px;
+    text-align: center;
+    background-color: rgb(124, 162, 158);
+    width: 67%;
+  
+}
+#namef{
+    display: none;
+}
